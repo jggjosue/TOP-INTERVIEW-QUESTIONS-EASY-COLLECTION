@@ -1,5 +1,4 @@
-# TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION
-Top Interview
+# TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION¿Top Interview
 Questions
 Easy Collection
 
@@ -9,12 +8,11 @@ Magzin LLC
 
 TOP INTERVIEW QUESTIONS EASY COLLECTION, FIRST EDITION
 
-Visit our website
+Visit our Website
 https://www.joshuesito.com/es/books
 
-Download the code
-https://www.joshuesito.com/es/books
-
+Download the Code
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION
 
 9798285469322 (ISBN)
 
