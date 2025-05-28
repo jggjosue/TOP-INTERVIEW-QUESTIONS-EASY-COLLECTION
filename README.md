@@ -24,78 +24,141 @@ Introduction	6
 
 1.1.1.	Solution	10
 JAVA
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/java_code/RemoveDuplicates.java
+
 TS
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/ts_code/RemoveDuplicates.ts
+
 PYTHON
 
 1.2.	Best Time to Buy and Sell Stock II	30
 
 1.2.1.	Solution	31
 JAVA
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/java_code/BestTimeToBuy.java
+
 TS
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/ts_code/BestTimeToBuy.ts
+
 PYTHON
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/python_code/BestTimeToBuy.py
 
 1.3.	Rotate Array	58
 
 1.3.1.	Solution	59
 JAVA
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/java_code/RotateArray.java
+
 TS
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/ts_code/RotateArray.ts
+
 PYTHON
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/python_code/RotateArray.py
+
 
 1.4.	Contains Duplicate	136
 
 1.4.1.	Solution	136
 JAVA
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/java_code/ContainsDuplicate.java
+
 TS
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/ts_code/ContainsDuplicate.ts
+
 PYTHON
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/python_code/ContainsDuplicate.py
+
 
 1.5.	Single Number	156
 
 1.5.1.	Solution	156
 JAVA
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/java_code/SingleNumber.java
+
 TS
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/ts_code/SingleNumber.ts
+
 PYTHON
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/python_code/SingleNumber.py
+
 
 1.6.	Intersection of Two Arrays II	171
 
 1.6.1.	Solution	171
 JAVA
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/java_code/IntersectionOfTwo.java
+
 TS
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/ts_code/IntersectionOfTwo.ts
+
 PYTHON
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/python_code/IntersectionOfTwo.py
+
 
 1.7.	Plus One	206
 
 1.7.1.	Solution	207
 JAVA
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/java_code/PlusOne.java
+
 TS
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/ts_code/PlusOne.ts
+
 PYTHON
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/python_code/PlusOne.py
+
 
 1.8.	Move Zeroes	218
 
 1.8.1.	Solution	218
 JAVA
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/java_code/MoveZeroes.java
+
 TS
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/ts_code/MoveZeroes.ts
+
 PYTHON
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/python_code/MoveZeroes.py
+
 
 1.9.	Two Sum	254
 
 1.9.1.	Solution	255
 JAVA
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/java_code/TwoSum.java
+
 TS
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/ts_code/TwoSum.ts
+
 PYTHON
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/python_code/TwoSum.py
+
 
 1.10.	Valid Sudoku	273
 
 1.10.1.	Solution	275
 JAVA
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/java_code/ValidSudoku.java
+
 TS
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/ts_code/ValidSudoku.ts
+
 PYTHON
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/python_code/ValidSudoku.py
+
 
 1.11.	Rotate Image	378
 
 1.11.1.	Solution	379
 JAVA
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/java_code/RotateImage.java
+
 TS
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/ts_code/RotateImage.ts
+
 PYTHON
+https://github.com/jggjosue/TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION/blob/main/python_code/RotateImage.py
+
 
 Technical Questions	457
 1. Merge Two Sorted Arrays	458
