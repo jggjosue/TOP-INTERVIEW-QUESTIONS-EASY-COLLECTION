@@ -1,6 +1,5 @@
 # TOP INTERVIEW QUESTIONS EASY COLLECTION, FIRST EDITION
-![interview_1st_edition](https://github.com/user-attachments/assets/9bb4bde0-20a9-4594-84f6-b6132fbc6fb5)
-
+<img width="920" alt="Captura de pantalla 2025-05-28 a la(s) 1 18 32 a m" src="https://github.com/user-attachments/assets/e601143d-ef4f-4598-8340-e926ec845d94" />
 
 Questions
 Easy Collection
