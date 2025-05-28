@@ -25,90 +25,79 @@ Introduction	6
 1.1.	Remove Duplicates from Sorted Array	9
 
 1.1.1.	Solution	10
-
-1.1.2.	Test Case	11
-
-1.1.3.	Debugging	11
+JAVA
+TS
+PYTHON
 
 1.2.	Best Time to Buy and Sell Stock II	30
 
 1.2.1.	Solution	31
-
-1.2.2.	Test Case	31
-
-1.2.3.	Debugging	31
+JAVA
+TS
+PYTHON
 
 1.3.	Rotate Array	58
 
 1.3.1.	Solution	59
-
-1.3.2.	Test Case	60
-
-1.3.3.	Debugging	60
+JAVA
+TS
+PYTHON
 
 1.4.	Contains Duplicate	136
 
 1.4.1.	Solution	136
-
-1.4.2.	Test Case	137
-
-1.4.3.	Debugging	137
+JAVA
+TS
+PYTHON
 
 1.5.	Single Number	156
 
 1.5.1.	Solution	156
-
-1.5.2.	Test Case	157
-
-1.5.3.	Debugging	157
+JAVA
+TS
+PYTHON
 
 1.6.	Intersection of Two Arrays II	171
 
 1.6.1.	Solution	171
-
-1.6.2.	Test Case	172
-
-1.6.3.	Debugging	172
+JAVA
+TS
+PYTHON
 
 1.7.	Plus One	206
 
 1.7.1.	Solution	207
-
-1.7.2.	Test Case	207
-
-1.7.3.	Debugging	207
+JAVA
+TS
+PYTHON
 
 1.8.	Move Zeroes	218
 
 1.8.1.	Solution	218
-
-1.8.2.	Test Case	219
-
-1.8.3.	Debugging	219
+JAVA
+TS
+PYTHON
 
 1.9.	Two Sum	254
 
 1.9.1.	Solution	255
-
-1.9.2.	Test Case	255
-
-1.9.3.	Debugging	255
+JAVA
+TS
+PYTHON
 
 1.10.	Valid Sudoku	273
 
 1.10.1.	Solution	275
-
-1.10.2.	Test Case	276
-
-1.10.3.	Debugging	276
+JAVA
+TS
+PYTHON
 
 1.11.	Rotate Image	378
 
 1.11.1.	Solution	379
-
-1.11.2.	Test Case	380
-
-1.11.3.	Debugging	380
+JAVA
+TS
+PYTHON
 
 Technical Questions	457
 1. Merge Two Sorted Arrays	458
