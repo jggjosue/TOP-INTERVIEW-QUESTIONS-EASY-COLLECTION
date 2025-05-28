@@ -1,4 +1,4 @@
-# TOP-INTERVIEW-QUESTIONS-EASY-COLLECTION¿Top Interview
+# TOP INTERVIEW QUESTIONS EASY COLLECTION, FIRST EDITION
 ![interview_1st_edition](https://github.com/user-attachments/assets/9bb4bde0-20a9-4594-84f6-b6132fbc6fb5)
 
 
